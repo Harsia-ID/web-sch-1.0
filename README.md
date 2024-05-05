@@ -12,8 +12,12 @@ This assignment asks students to create a simple website using PHP, HTML, and CS
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch/main/s1.png) 
-![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch/main/s2.png)
-![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch/main/s3.png)
-![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch/main/s4.png)
-![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch/main/s5.png) 
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/1.png)
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/2.png)
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/3.png)
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/3.1.png)
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/4.png)
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/4.1.png)
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/5.png)
+![App Screenshot](https://raw.githubusercontent.com/Harsia-ID/web-sch-1.0/main/img/thumb/6.png)
+
